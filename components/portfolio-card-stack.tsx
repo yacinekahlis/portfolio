@@ -44,7 +44,7 @@ const initialProjects: ProjectData[] = [
       lessons: "Ce projet m'a permis d'intégrer plusieurs systèmes apprises lors de mes certifications Azure et Stripe. L'utilisation combinée de Microsoft Entra ID (Azure AD B2C), Azure Blob Storage, Azure App Service, et Stripe m'a permis de développer une application robuste, sécurisée et prête à être déployée en production."
     },
     imageUrl: "/karview.png",
-    projectUrl: "https://www.karview.com",
+    projectUrl: "#",
     technologies: ["React", "Next.js", "C#", ".NET", "Azure", "Tailwind", "Stripe", "Entity Framework", "Azure Blob Storage", "AutoMapper", "Azure AD B2C"],
     colors: {
       primary: "#0f2b46",
@@ -66,7 +66,7 @@ const initialProjects: ProjectData[] = [
       lessons: "Grâce à ce projet, j'ai approfondi mes connaissances en manipulation d'images, en intégration de WebRTC avec React, et en déploiement d'applications frontend statiques sur Azure. J'ai également appris à optimiser le rendu graphique en temps réel pour des performances améliorées sur divers appareils.",
     },
     imageUrl: "/spotup.png",
-    projectUrl: "https://polite-plant-00d8ecb10.6.azurestaticapps.net/",
+    projectUrl: "#",
     technologies: ["React", "Next.js", "Tailwind CSS", "Azure Static Web Apps"],
     colors: {
       primary: "#0f2b46",
